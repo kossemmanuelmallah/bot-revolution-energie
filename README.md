@@ -16,7 +16,7 @@ from telegram.ext import (
 from database import init_db, save_request
 from ai import ai_analyse
 
-TOKEN = "7894156599:AAEIea1TO9U1V_pCcFpBBvrRI-rClTZcsXU"
+TOKEN = "TON_TOKEN"
 
 logging.basicConfig(level=logging.INFO)
 
